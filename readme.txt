@@ -6,6 +6,6 @@ Goto Android Folder -> Click on app-release.apk and download the app and install
 You can install the App from there.
 
 
-If u want to check the output of the project i have hosted the same project as web you can click on the below link to access that website and get the overview of how the project is working
+If you want to check the output of the project i have hosted the same project as web you can click on the below link to access that website and get the overview of how the project is working
 
 web link of the app - https://ticktacktoeapp-by-shashank-m-aradhya.tiiny.site/
