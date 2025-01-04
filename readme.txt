@@ -1,44 +1,5 @@
+This is a TickTackToe App 2 player game app where you can see who's the winner based on the each rounds outcome
 
-FREE APP
+To Download the Tick Tac Toe App Using my Repository Follow the instructions given:
 
-Created by WebIntoApp.com on Saturday 4th of January 2025 04:03:10 AM.
-
-Release APK & App Bundle (AAB) ready to be submitted to Google Play Store 
-and to any other APK / AAB store over the internet.
-
--------------------------------------
-App ID:			558183
-App Key:		fduNayUHHmHhYUaRRwdzXuHjSKUcHNqI
-App Name:		ticktacktoe-by-Shashank-M-Aradhya
-App Version:	1.0
-Package:		com.mycompany.ticktacktoebyshashankmaradhya
-Mode:			Free App
--------------------------------------
-
-Your free app is ready, you can now publish it to the 
-google play store and to any apk app store on the internet.
-
--------------------------------------
-Please note, your app is under a FREE mode, you can always 
-convert it to your own dedicated and branded mobile app for 
-Android and iOS with all the premium features at:
-
-https://www.webintoapp.com/author/apps/558183/edit?cmd=app-switcher
-
--------------------------------------
-Here are some useful links:
--------------------------------------
-
-You can edit your app at:
-https://www.webintoapp.com/author/apps
-
-Get installs statistics at:
-https://www.webintoapp.com/author/stats?appid=558183
-
-The Author Area:
-https://www.webintoapp.com/author/dashboard
-
--------------------------------------
-WebIntoApp.com Team.
-https://www.webintoapp.com
--------------------------------------
+Goto Android Folder -> Click on app-release.apk and download the app and install to use my app for free ..)
